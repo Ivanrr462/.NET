@@ -1,2 +1,2 @@
-# .nET
+# .NET
 Ejercicios de .NET
