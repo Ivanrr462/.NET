@@ -1,0 +1,13 @@
+c:\users\alumno\documents\visual studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\bin\Debug\Practica3 Ivan Rios.exe.config
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\bin\Debug\Practica3 Ivan Rios.exe
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\bin\Debug\Practica3 Ivan Rios.pdb
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\obj\Debug\Practica3 Ivan Rios.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\obj\Debug\Practica3_Ivan_Rios.Form1.resources
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\obj\Debug\Practica3_Ivan_Rios.Properties.Resources.resources
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\obj\Debug\Practica3 Ivan Rios.csproj.GenerateResource.Cache
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\obj\Debug\Practica3 Ivan Rios.exe
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\obj\Debug\Practica3 Ivan Rios.pdb
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\bin\Debug\Practica3 Ivan Rios.exe.manifest
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\bin\Debug\Practica3 Ivan Rios.application
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\obj\Debug\Practica3 Ivan Rios.exe.manifest
+C:\Users\Alumno\Documents\Visual Studio 2013\Projects\Practica3 Ivan Rios\Practica3 Ivan Rios\obj\Debug\Practica3 Ivan Rios.application
